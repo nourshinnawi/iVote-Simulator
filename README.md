@@ -1,1 +1,1 @@
-# CS-3560-Assignment-1
+# CS-3560-Assignment-1 - iVoteSimulator
