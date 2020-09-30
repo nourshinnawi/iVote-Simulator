@@ -1,5 +1,3 @@
-//
-
 package a1;
 
 public enum generateQuestion {MULTIPLE, SINGLE;
