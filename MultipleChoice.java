@@ -1,5 +1,3 @@
-//Multiple Choice Class
-
 package a1;
 
 public class MultipleChoice implements Question{
