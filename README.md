@@ -1,1 +1,1 @@
-# CS-3560-Assignment-1 - iVoteSimulator
+iVoteSimulator - Uses Java and object-oriented programming to create a voting simulator based on live poll voting.
